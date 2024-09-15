@@ -1,4 +1,4 @@
 # Quiz-App
 
 Simple Quiz app
-![Design preview for the Blog preview card coding challenge](./Capture.PNG)
+![Design preview for the Quiz app coding challenge](./Capture.PNG)
